@@ -10,3 +10,11 @@ programming environment that is already a familiar part of the workflow of many 
 not only facilitate drawing data into an environment where it can readily be manipulated, but also one 
 in which those analyses
 and methods can be easily shared, replicated, and extended by other researchers.
+
+
+## Prophet
+
+https://facebookincubator.github.io/prophet/
+
+Prophet is a procedure for forecasting time series data. It is based on an additive model where non-linear trends are fit with yearly and weekly seasonality, plus holidays. It works best with daily periodicity data with at least one year of historical data. Prophet is robust to missing data, shifts in the trend, and large outliers.
+
